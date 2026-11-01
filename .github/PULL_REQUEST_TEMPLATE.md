@@ -5,6 +5,9 @@ Closes lvlmotion/engineering#
 **Tested:** <!-- what you checked and how; say what still needs testing (e.g. bench, device) -->
 **Risk:** <!-- two-way (easy to undo) or one-way (migration, delete, flashed firmware, published data) · what could break -->
 
+## Details
+
+<!-- Optional. The four lines above are the TL;DR, not the limit: put anything else here (context, screenshots, logs, test output, follow-ups). Delete this section if there's nothing to add. -->
+
 <!-- Use "Refs" instead of "Closes" if this PR shouldn't close the issue. -->
-<!-- Anything longer goes below under "## Details". -->
 <!-- Own code: merge once CI passes (Ship). Someone else's code: request their review; merge after a week if there's no answer (Ask). -->
