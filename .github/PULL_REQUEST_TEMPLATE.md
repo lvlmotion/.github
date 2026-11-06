@@ -1,8 +1,11 @@
 Closes lvlmotion/engineering#
 
 **Why:** <!-- the problem, in one sentence -->
+
 **What:** <!-- what this PR changes, in one sentence -->
+
 **Tested:** <!-- what you checked and how; say what still needs testing (e.g. bench, device) -->
+
 **Risk:** <!-- two-way (easy to undo) or one-way (migration, delete, flashed firmware, published data) · what could break -->
 
 ## Details
