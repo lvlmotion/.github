@@ -6,6 +6,8 @@ Closes lvlmotion/engineering#
 
 **Tested:** <!-- what you checked and how; say what still needs testing (e.g. bench, device) -->
 
+**Reviewed:** <!-- before you commit, run `/code-review high` in Claude Code if you have it, and fix what's real. List what it found and what you fixed, or say it wasn't run. The CI Claude review reads this description, not the comment threads. -->
+
 **Risk:** <!-- two-way (easy to undo) or one-way (migration, delete, flashed firmware, published data) · what could break -->
 
 ## Details
